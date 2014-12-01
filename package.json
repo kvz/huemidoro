@@ -1,6 +1,6 @@
 {
   "name": "huemidoro",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Turns all your Philips HUE lamps red when it's time for a break :)",
   "keywords": [
     "ratelimiter"
