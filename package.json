@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "debug": "^1.0.4",
-    "node-hue-api": "^0.2.3",
+    "node-hue-api": "^1.2.1",
     "ratestate": "0.0.2",
     "source-map-support": "^0.2.8",
     "underscore": "^1.8.3"
