@@ -1,5 +1,5 @@
 # Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
-version: v1.7.0
+version: v1.12.0
 ignore: {}
 # patches apply the minimum changes required to fix a vulnerability
 patch:
@@ -9,3 +9,6 @@ patch:
   'npm:request:20160119':
     - node-hue-api > request-util > request:
         patched: '2017-01-15T13:45:44.538Z'
+  'npm:tunnel-agent:20170305':
+    - node-hue-api > request-util > request > tunnel-agent:
+        patched: '2018-07-01T03:57:20.240Z'
