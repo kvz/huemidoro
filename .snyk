@@ -12,3 +12,6 @@ patch:
   'npm:http-signature:20150122':
     - node-hue-api > request-util > request > http-signature:
         patched: '2018-07-08T03:58:09.001Z'
+  'npm:tunnel-agent:20170305':
+    - node-hue-api > request-util > request > tunnel-agent:
+        patched: '2018-10-28T04:47:25.030Z'
